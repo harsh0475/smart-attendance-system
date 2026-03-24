@@ -1,0 +1,5 @@
+venv/ 
+encodings.pkl 
+attendance/ 
+__pycache__/ 
+*.pyc 
